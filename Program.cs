@@ -14,7 +14,6 @@ namespace ecommerce
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
-            //test
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
